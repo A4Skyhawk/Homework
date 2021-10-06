@@ -10,4 +10,4 @@ if (action=='-')
 if ((action=='/')&(n2 != 0))
   print (n1 / n2)
 if ((action=='/')&(n2 == 0)):
-    print ('AMOGUS')
+  print ('AMOGUS')
